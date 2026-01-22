@@ -1,5 +1,5 @@
 # CST-438-group4-project
-Git Out There
+## Git Out There
 Find open-source projects that need you!- Users can log in and log out
 - Logged in users are able to favorite open-source repos
 - Logged in users are able to favorite open-source issues
