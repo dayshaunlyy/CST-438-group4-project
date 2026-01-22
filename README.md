@@ -1,6 +1,7 @@
 # CST-438-group4-project
 ## Git Out There
-Find open-source projects that need you!- Users can log in and log out
+Find open-source projects that need you!
+- Users can log in and log out
 - Logged in users are able to favorite open-source repos
 - Logged in users are able to favorite open-source issues
 - Guests have randomized feeds, no access to profile editing, semi-frequent banners edging the user to log in
